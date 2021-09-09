@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on multiple projects incl. [ADE Scheduler](https://github.com/SnaKyEyeS/ADE-Scheduler), an open source web tool for students @ UCLouvain
-- 🌱 I’m currently studying Electromechanical Engineering (last year!)
+- 🌱 I’m pursuing a PhD in Differential Ray Tracing for Telecommunications
 - 📫 How to reach me: jeertmans@icloud.com
 
 <!--
