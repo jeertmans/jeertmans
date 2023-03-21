@@ -6,7 +6,7 @@
 - :scroll: From time to time, I post on my [personal website](https://jeertmans.github.io) about my research or code
 - 📫 How to reach me: jeertmans@icloud.com
 
-[![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeertmans&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
