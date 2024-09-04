@@ -14,3 +14,7 @@
   and [LanguageTool-Rust](https://github.com/jeertmans/languagetool-rust), Rust bindings to the LanguageTool API;
 - :crab: I recently fell in love with Rust and I am open to collaborate on Rust projects (*related or not to my research*);
 - 📫 you can to reach me at jeertmans@icloud.com or jerome.eertmans@uclouvain.be (*research-only*).
+
+Finally, I like to contribute to open source projects,
+and you can find the list of my contribution to external projects
+[here](https://github.com/search?q=author%3Ajeertmans+is%3Amerged+-org%3Ajeertmans+-org%3ALELEC210X+-org%3AUCLOUVAIN-CLUB-ELEC+-org%3AADE-Scheduler+-repo%3Aploum%2Flingi2401+&type=pullrequests).
