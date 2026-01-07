@@ -2,7 +2,7 @@
 
 <img alt="jeertmans' GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=jeertmans&theme=transparent&show_icons=true">
 
-- 🌱 I'm pursuing a PhD in Differential Ray Tracing for Telecommunications, at UCLouvain, Belgium;
+- 🌱 I'm pursuing a PhD in Differential Ray Tracing for Radio Propagation, at UCLouvain, Belgium;
 - :scroll: I have a [personal website](https://jeertmans.github.io),
   where I post about my research and sometimes other programming subjects. My research is fully open source and I currently
   work on a my own Differentiable Ray Tracing tool for Radio progragation:
