@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub profile 👋
 
-<img alt="jeertmans' GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=jeertmans&theme=transparent&show_icons=true">
+<img alt="jeertmans' GitHub stats" align="right" src="./profile/stats.svg">
 
 - 🌱 I'm pursuing a PhD in Differential Ray Tracing for Radio Propagation, at UCLouvain, Belgium;
 - :scroll: I have a [personal website](https://jeertmans.github.io),
