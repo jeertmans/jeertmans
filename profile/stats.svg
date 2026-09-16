@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">J&#233;rome Eertmans&#39; GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1434, Total Commits  (last year) : 833, Total PRs: 927, Total Issues: 264, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 1436, Total Commits  (last year) : 833, Total PRs: 927, Total Issues: 264, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 8.65854026427143;
+        stroke-dashoffset: 8.654741294003712;
       }
     }
   
